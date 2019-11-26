@@ -1,4 +1,3 @@
 # Demo-Merge
 
-
-by hang ren
+A simple example. By hang ren
